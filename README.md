@@ -8,13 +8,13 @@ Play [Exercise 1](https://senseicanada.github.io/game615-spring2023/exercises/ex
  
 Play [Exercise 2](https://senseicanada.github.io/game615-spring2023/exercises/exercise02/play/) | [Repository](https://github.com/SenseiCanada/game615-spring2023/tree/main/exercises/exercise02)
  
-Play [Exercise 3](https://raltshunter.github.io/game615-spring2023-03/exercise03/play/) | [Repository](https://github.com/SenseiCanada/game615-spring2023/tree/main/exercises/exercise03)
+Play [Exercise 3](https://raltshunter.github.io/game615-spring2023-03/exercise03/play/) | [Repository](https://github.com/RaltsHunter/game615-spring2023-03/tree/main/exercise03)
  
 Play [Exercise 4](https://senseicanada.github.io/game615-spring2023-04/exercise04/play/) | [Repository](https://github.com/SenseiCanada/game615-spring2023-04/tree/main/exercise04)
  
 Play [Exercise 5](https://lemosadam.github.io/game615-spring2023-05/exercise05/play/) | [Repository](https://github.com/lemosadam/game615-spring2023-05/tree/main/exercise05)
  
-Play [Exercise 6](https://senseicanada.github.io/game615-spring2023-06/play/) | [Repository](https://senseicanada.github.io/game615-spring2023-06/exercise06/)
+Play [Exercise 6](https://senseicanada.github.io/game615-spring2023-06/play/) | [Repository](https://github.com/SenseiCanada/game615-spring2023-06/tree/main/exercise06)
  
 Play [Exercise 7](https://tasallin.github.io/game615-spring2023-07/play) | [Repository](https://github.com/TASallin/game615-spring2023-07/tree/main/exercise07)
  

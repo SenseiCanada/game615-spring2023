@@ -6,7 +6,7 @@
  
 Play [Exercise 1](https://senseicanada.github.io/game615-spring2023/exercises/exercise01/play/) | [Repository](https://senseicanada.github.io/game615-spring2023/exercises/exercise01/)
  
-Play [Exercise 2](https://senseicanada.github.io/game615-spring2023/exercises/exercise02/play/) | [Repository](https://senseicanada.github.io/game615-spring2023/exercises/exercise02/)
+Play [Exercise 2](https://senseicanada.github.io/game615-spring2023/exercises/exercise02/play/) | [Repository](https://senseicanada.github.io/game615-spring2023/exercises/exercise02/play)
  
 Play [Exercise 3](https://raltshunter.github.io/game615-spring2023-03/exercise03/play/) | [Repository](https://raltshunter.github.io/game615-spring2023-03/exercise03/)
  

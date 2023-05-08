@@ -4,7 +4,7 @@
  
  Play [Final](https://senseicanada.github.io/game615-spring2023/final/play/) | [Repository](https://senseicanada.github.io/game615-spring2023/final/)
  
-Play [Exercise 1](https://senseicanada.github.io/game615-spring2023/exercises/exercise01/play/) | [Repository](https://senseicanada.github.io/game615-spring2023/exercises/exercise01/)
+Play [Exercise 1](https://senseicanada.github.io/game615-spring2023/exercises/exercise01/play/) | [Repository](https://github.com/SenseiCanada/game615-spring2023/tree/main/exercises/exercise01)
  
 Play [Exercise 2](https://senseicanada.github.io/game615-spring2023/exercises/exercise02/play/) | [Repository](https://github.com/SenseiCanada/game615-spring2023/tree/main/exercises/exercise02)
  

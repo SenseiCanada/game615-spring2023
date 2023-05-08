@@ -18,6 +18,6 @@ Play [Exercise 6](https://senseicanada.github.io/game615-spring2023-06/play/) | 
  
 Play [Exercise 7](https://tasallin.github.io/game615-spring2023-07/play) | [Repository](https://tasallin.github.io/game615-spring2023-07/)
  
-Play [Exercise 8](https://senseicanada.github.io/game615-spring2023-08/play/) | [Reposistory](https://senseicanada.github.io/game615-spring2023-08/)
+Play [Exercise 8](https://senseicanada.github.io/game615-spring2023-08/play/) | [Repository](https://senseicanada.github.io/game615-spring2023-08/)
  
  

@@ -2,7 +2,7 @@
  ## Game Dev 1
  ### Links:
  
- Play [Final](https://senseicanada.github.io/game615-spring2023/final/play/) | [Repository](https://senseicanada.github.io/game615-spring2023/)
+ Play [Final](https://senseicanada.github.io/game615-spring2023/final/play/) | [Repository](https://senseicanada.github.io/game615-spring2023/final/)
  
 Play [Exercise 1](https://senseicanada.github.io/game615-spring2023/exercises/exercise01/play/) | [Repository](https://senseicanada.github.io/game615-spring2023/exercises/exercise01/)
  

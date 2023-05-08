@@ -2,22 +2,22 @@
  ## Game Dev 1
  ### Links:
  
- [Final](https://senseicanada.github.io/game615-spring2023/final/play/) 
+ Play [Final](https://senseicanada.github.io/game615-spring2023/final/play/) | [Repository](https://senseicanada.github.io/game615-spring2023/final/)
  
- [Exercise 1](https://senseicanada.github.io/game615-spring2023/exercises/exercise01/play/)
+Play [Exercise 1](https://senseicanada.github.io/game615-spring2023/exercises/exercise01/play/) | [Repository] (https://senseicanada.github.io/game615-spring2023/exercises/exercise01/)
  
- [Exercise 2](https://senseicanada.github.io/game615-spring2023/exercises/exercise02/play/)
+Play [Exercise 2](https://senseicanada.github.io/game615-spring2023/exercises/exercise02/play/) | [Repository](https://senseicanada.github.io/game615-spring2023/exercises/exercise02/)
  
- [Exercise 3](https://raltshunter.github.io/game615-spring2023-03/exercise03/play/)
+Play [Exercise 3](https://raltshunter.github.io/game615-spring2023-03/exercise03/play/) | [Repository](https://raltshunter.github.io/game615-spring2023-03/exercise03/)
  
- [Exercise 4](https://senseicanada.github.io/game615-spring2023-04/exercise04/play/)
+Play [Exercise 4](https://senseicanada.github.io/game615-spring2023-04/exercise04/play/) | [Repository](https://senseicanada.github.io/game615-spring2023-04/exercise04/)
  
- [Exercise 5](https://lemosadam.github.io/game615-spring2023-05/exercise05/play/)
+Play [Exercise 5](https://lemosadam.github.io/game615-spring2023-05/exercise05/play/) | [Repository](https://lemosadam.github.io/game615-spring2023-05/exercise05/)
  
- [Exercise 6](https://senseicanada.github.io/game615-spring2023-06/play/)
+Play [Exercise 6](https://senseicanada.github.io/game615-spring2023-06/play/) | [Repository](https://senseicanada.github.io/game615-spring2023-06/)
  
- [Exercise 7](https://tasallin.github.io/game615-spring2023-07/play)
+Play [Exercise 7](https://tasallin.github.io/game615-spring2023-07/play) | [Repository](https://tasallin.github.io/game615-spring2023-07/)
  
- [Exercise 8](https://senseicanada.github.io/game615-spring2023-08/play/)
+Play [Exercise 8](https://senseicanada.github.io/game615-spring2023-08/play/) | [Reposistory](https://senseicanada.github.io/game615-spring2023-08/)
  
  

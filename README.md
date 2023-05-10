@@ -2,7 +2,7 @@
  ## Game Dev 1 Portfolio
  ### Links:
  
- Play [Final](https://senseicanada.github.io/game615-spring2023/final/play/) | [Repository](https://github.com/SenseiCanada/game615-spring2023/tree/main/final)
+ Play [Final](https://senseicanada.github.io/game615-spring2023-final/play/) | [Repository](https://github.com/SenseiCanada/game615-spring2023-final)
  
 Play [Exercise 1](https://senseicanada.github.io/game615-spring2023/exercises/exercise01/play/) | [Repository](https://github.com/SenseiCanada/game615-spring2023/tree/main/exercises/exercise01)
  
